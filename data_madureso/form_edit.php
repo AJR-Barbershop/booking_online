@@ -64,6 +64,22 @@
                                 </select>
                             </div>
                         </div>
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Jenis Paket</label>
+                            <div class="col-lg-8">
+                                <select class="form-control" name="status">
+                                    <option selected disabled value="<?= $row['status'] ?>" <?php echo ($row['status'] == $row['status']) ? 'selected' : '' ?>><?= $row['status'] ?></option>
+                                    <option value="Paket Hemat">Paket Hemat</option>
+                                    <option value="Paket Reguler">Paket Reguler</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Tambahan</label>
+                            <div class="col-lg-8">
+                                <textarea class="form-control"></textarea>
+                            </div>
+                        </div>
                     </div>
                     <div class="col-md-12 mb-5">
                         <button type="submit" class="btn btn-block btn-primary mr-5 mb-5">
