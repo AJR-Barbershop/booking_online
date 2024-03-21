@@ -105,22 +105,22 @@
                         </div>
 
                         <div class="col-lg-5">                            
-                            <h2>Steven Porreca</h2>
-                            <p>With a razor-sharp eye for detail and a passion for creating stylish looks, he is the heart and soul of our barbershop. With over 10 years of experience in the industry, he is a true master of the craft, transforming haircuts into works of art.</p>
+                            <h2>ANJAR</h2>
+                            <p>Profesional Hairstylish Selalu mengutamakan detail dalam setiap pengerjaaanya dan menciptakan penampilan yang penuh gaya, dia adalah master sejati yang mampu mengubah potong rambut menjadi karya seni. Dengan pengalaman lebih dari 2 tahun di industri barbershop.</p>
                             <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6288238330244&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/anjar.wanto/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                             </div>
                         </div>
                     </div>
 
                     <div class="row gx-5 align-items-center"> 
                         <div class="col-lg-5 order-lg-1 order-2 offset-lg-1">                            
-                            <h2>Huey Apicella</h2>
-                            <p>With a razor-sharp eye for detail and a passion for creating stylish looks, he is the heart and soul of our barbershop. With over 10 years of experience in the industry, he is a true master of the craft, transforming haircuts into works of art.</p>
+                            <h2>YOGA</h2>
+                            <p>Profesional Hairstylish ini juga selalu mengutamakan detail dan menciptakan ide ide hairstyle di kalangan anak muda masa kini, Dia adalah chaspter adalan di barber barbershop kami. Dengan pengalaman lebih dari 2 tahun di industri barbershop.</p>
                             <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=628978604106&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/pryoga_._/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                             </div>
                         </div>
 
@@ -149,22 +149,22 @@
                         </div>
 
                         <div class="col-lg-5">                            
-                            <h2>Harry Riecke</h2>
-                            <p>With a razor-sharp eye for detail and a passion for creating stylish looks, he is the heart and soul of our barbershop. With over 10 years of experience in the industry, he is a true master of the craft, transforming haircuts into works of art.</p>
+                            <h2>ARMAN</h2>
+                            <p>Profesional Hairstylish yang selalu mengutamakan detail dalam pengerjaannya dan mampu mencipatakan hasil penuh dengan gaya, dia juga 2 diantara chapster adalan dibarbershop kami. Dengan pengalaman lebih dari 2 tahun di industri barbershop.</p>
                             <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6283839595165&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/armn_1010/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                             </div>
                         </div>
                     </div>
 
                     <div class="row gx-5 align-items-center"> 
                         <div class="col-lg-5 order-lg-1 order-2 offset-lg-1">                            
-                            <h2>Merilyn Axe</h2>
-                            <p>With a razor-sharp eye for detail and a passion for creating stylish looks, he is the heart and soul of our barbershop. With over 10 years of experience in the industry, he is a true master of the craft, transforming haircuts into works of art.</p>
+                            <h2>RICO</h2>
+                            <p>Profesional Hairstylish Walau dengan pengalaman 1 tahun di industri barbershop, dia mampu mengerjakan karya karyanya dengan detail dan penuh dengan ide kreatif. </p>
                             <div class="social-icons">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6285601151953&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/ricodlpiero/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                             </div>
                         </div>
 
