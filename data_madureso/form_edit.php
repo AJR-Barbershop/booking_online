@@ -64,7 +64,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="form-group row">
+                        <!-- <div class="form-group row">
                             <label class="col-lg-4 col-form-label">Jenis Paket</label>
                             <div class="col-lg-8">
                                 <select class="form-control" name="status">
@@ -79,7 +79,7 @@
                             <div class="col-lg-8">
                                 <textarea class="form-control"></textarea>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-md-12 mb-5">
                         <button type="submit" class="btn btn-block btn-primary mr-5 mb-5">

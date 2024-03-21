@@ -108,6 +108,15 @@
                         <div class="col-lg-12" style="margin-top: 40px;">
                             <h4 class="wow fadeIn">Outlet Dr. Soetomo</h4>
                             <div class="de-separator"></div>
+                            <span>Kapster Ready</span></br>
+                            <?php
+                            include 'koneksi.php';
+                                    $hasil = mysqli_query($koneksi, "SELECT * FROM kapster WHERE `kode_outlet`='KO-002'");
+                                    while($data = mysqli_fetch_array($hasil)){
+                                ?>
+                                    <span>- <?= $data['nama_pegawai'] ?></span> -</br>
+                            <?php 
+                            } ?>
                             <table class="table text-white" style="font-size:10px">
                                 <thead>
                                     <tr>

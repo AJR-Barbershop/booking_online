@@ -82,6 +82,13 @@
                             <li>
                                 <a class="<?= (strpos($_SERVER['REQUEST_URI'], 'laporan')) ? 'active' : '' ?>" href="../laporan/laporan_booking.php"><i class="fa fa-file-text-o"></i><span class="sidebar-mini-hide">Laporan Booking</span></a>
                             </li>
+
+                            <li class="nav-main-heading">
+                                <span class="text-white"><b>Setting</b></span>
+                            </li>
+                            <li>
+                                <a class="<?= (strpos($_SERVER['REQUEST_URI'], 'kapster')) ? 'active' : '' ?>" href="../kapster/index.php"><i class="fa fa-users"></i><span class="sidebar-mini-hide">Kapster Ready</span></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
