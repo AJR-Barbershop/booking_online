@@ -12,9 +12,10 @@
                         <tr>
                             <th class="text-center"><b>No</b></th>
                             <th class="text-center"><b>Booking</b></th>
-                            <th class="text-center"><b>Nama Customer</b></th>
+                            <th class="text-center"><b>Customer</b></th>
                             <th class="text-center"><b>WA</b></th>
-                            <th class="text-center"><b>Keterangan</b></th>
+                            <th class="text-center"><b>Paket</b></th>
+                            <th class="text-center"><b>Tambahan</b></th>
                             <th class="text-center"><b>Kapster</b></th>
                             <th class="text-center"><b>Status</b></th>
                             <th class="text-center"><i class="fa fa-asterisk"></i></th>
@@ -31,7 +32,8 @@
                             <td class="text-center"><?= $data['kode_booking'] ?></td>
                             <td class=""><?= $data['customer'] ?></td>
                             <td class="text-center"><?= $data['wa'] ?></td>
-                            <td class=""><?= $data['keterangan'] ?></td>
+                            <td class="text-center"><?= $data['nama_paket'] ?></td>
+                            <td class=""><?= $data['tambahan'] ?></td>
                             <td class=""><?= $data['nama_pegawai'] ?></td>
                             <?php
                                     if($data['status'] == 'ANTRIAN'){

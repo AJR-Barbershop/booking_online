@@ -108,13 +108,13 @@
                         <div class="col-lg-12" style="margin-top: 40px;">
                             <h4 class="wow fadeIn">Outlet Dr. Soetomo</h4>
                             <div class="de-separator"></div>
-                            <h5>Kapster Ready</h5></br>
+                            <h5 style="line-height: 40px;">Kapster Ready</h5>
                             <?php
                             include 'koneksi.php';
                                     $hasil = mysqli_query($koneksi, "SELECT * FROM kapster WHERE `kode_outlet`='KO-002'");
                                     while($data = mysqli_fetch_array($hasil)){
                                 ?>
-                                    <h5><?= $data['nama_pegawai'] ?></h5></br>
+                                    <h5 style="font-size:15px; line-height: 15px;"><?= $data['nama_pegawai'] ?> / <?= $data['keterangan'] ?></h5>
                             <?php 
                             } ?>
                             <table class="table text-white" style="font-size:10px">

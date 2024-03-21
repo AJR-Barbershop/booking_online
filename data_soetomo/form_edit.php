@@ -9,7 +9,14 @@
 
 <main id="main-container">
     <div class="content">
-        <h5>Data booking :</h5>
+    <div class="row">
+            <div class="col-md-6">
+                <h5>Data Bookings</h5>
+            </div>
+            <div class="col-md-6 text-right">
+                <a type="button" href="index.php" class="btn btn-danger"><i class="fa fa-arrow-circle-o-left mr-5"></i>KEMBALI</a>
+            </div>
+        </div>
         <div class="block">
             <form action="query_edit.php" method="post">
                 <div class="block-content row">
@@ -62,6 +69,23 @@
                                     <option value="PROSES">PROSES</option>
                                     <option value="SELESAI">SELESAI</option>
                                 </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label">Jenis Paket</label>
+                            <div class="col-lg-8">
+                                <select class="form-control" name="nama_paket">
+                                    <option selected disabled value="<?= $row['nama_paket'] ?>" <?php echo ($row['nama_paket'] == $row['nama_paket']) ? 'selected' : '' ?>><?= $row['nama_paket'] ?></option>
+                                    <option value="PAKET HEMAT">PAKET HEMAT</option>
+                                    <option value="REGULAR">REGULAR</option>
+                                    <option value="SPECIAL CUT">SPECIAL CUT</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label class="col-lg-4 col-form-label" >Tambahan</label>
+                            <div class="col-lg-8">
+                                <textarea class="form-control" name="tambahan"><?= $row['tambahan'] ?></textarea>
                             </div>
                         </div>
                     </div>

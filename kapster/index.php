@@ -43,6 +43,12 @@
                     </div>
                 </div>
                 <div class="form-group row">
+                    <label class="col-lg-2 col-form-label">Keterangan</label>
+                    <div class="col-lg-10">
+                        <input type="text" class="form-control" name="keterangan" value="" placeholder="Keterangan">
+                    </div>
+                </div>
+                <div class="form-group row">
                     <div class="col-md-2 mb-5"></div>
                     <div class="col-md-10 mb-5">
                         <button type="submit" class="btn btn-block btn-primary mr-5 mb-5">
@@ -70,6 +76,7 @@
                                 <tr>
                                     <th class="text-center"><b>No</b></th>
                                     <th class="text-center"><b>Nama Kapster</b></th>
+                                    <th class="text-center"><b>Keterangan</b></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -81,6 +88,7 @@
                                 <tr>
                                     <td class="text-center"><?= $no ?></td>
                                     <td class="text-center"><?= $data['nama_pegawai'] ?></td>
+                                    <td class="text-center"><?= $data['keterangan'] ?></td>
                                 </tr>
                                 <?php 
                                 $no++;
@@ -107,6 +115,7 @@
                                 <tr>
                                     <th class="text-center"><b>No</b></th>
                                     <th class="text-center"><b>Nama Kapster</b></th>
+                                    <th class="text-center"><b>Keterangan</b></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -118,6 +127,7 @@
                                 <tr>
                                     <td class="text-center"><?= $no ?></td>
                                     <td class="text-center"><?= $data['nama_pegawai'] ?></td>
+                                    <td class="text-center"><?= $data['keterangan'] ?></td>
                                 </tr>
                                 <?php 
                                 $no++;
