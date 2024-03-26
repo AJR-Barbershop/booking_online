@@ -122,7 +122,7 @@
                                     <tr>
                                         <th class="text-center"><b>NO</b></th>
                                         <th><b>CUSTOMER</b></th>
-                                        <th><b>Keterangan</b></th>
+                                        <th><b>KETERANGAN</b></th>
                                         <th class=""><b>STATUS</b></th>
                                     </tr>
                                 </thead>

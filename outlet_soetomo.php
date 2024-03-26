@@ -122,6 +122,7 @@
                                     <tr>
                                         <th class="text-center"><b>NO</b></th>
                                         <th><b>CUSTOMER</b></th>
+                                        <th><b>KETERANGAN</b></th>
                                         <th class=""><b>STATUS</b></th>
                                     </tr>
                                 </thead>
@@ -135,6 +136,7 @@
                                 <tr>
                                     <td class="text-center"><?= $no ?></td>
                                     <td class=""><?= $data['customer'] ?></td>
+                                    <td class=""><?= $data['keterangan'] ?></td>
                                     <?php
                                             if($data['status'] == 'ANTRIAN'){
                                                 echo '<td class="text-center"><span class="text-info"><b>ANTRIAN</b></span></td>';
