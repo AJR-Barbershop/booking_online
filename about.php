@@ -94,7 +94,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 text-center" data-jarallax-element="-20">
-                            <p class="lead big wow fadeInUp">Immerse yourself in the ambience of our thoughtfully designed space, where modern aesthetics merge harmoniously with classic elements. We believe that a barbershop should be more than just a place to get a haircut; it should be a sanctuary where you can unwind, engage in great conversation, and leave feeling invigorated.
+                            <p class="lead big wow fadeInUp">Benamkan diri Anda dalam suasana ruang kami yang dirancang dengan cermat, di mana estetika modern berpadu secara harmonis dengan elemen klasik. Kami percaya bahwa tempat pangkas rambut seharusnya lebih dari sekadar tempat potong rambut; ini harus menjadi tempat perlindungan di mana Anda dapat bersantai, terlibat dalam percakapan yang menyenangkan, dan pulang dengan perasaan segar.
                             </p>
                         </div>
                     </div>
@@ -110,7 +110,7 @@
                             <div class="d-sch-table">
                                 <h2 class="wow fadeIn text-center">Our Vision</h2>
                                 <div class="de-separator"></div>
-                                <p>At the heart of our vision is a commitment to preserving the time-honored traditions of barbering while seamlessly blending them with contemporary techniques and trends. We envision a space where heritage and innovation coexist harmoniously, creating an environment that appeals to the modern man seeking both classic sophistication and cutting-edge styles.</p>
+                                <p>Inti dari visi kami adalah komitmen untuk melestarikan tradisi pangkas rambut yang sudah lama ada sambil memadukannya dengan teknik dan tren kontemporer. Kami membayangkan sebuah ruang di mana warisan dan inovasi hidup berdampingan secara harmonis, menciptakan lingkungan yang menarik bagi manusia modern yang mencari kecanggihan klasik dan gaya mutakhir.</p>
                                 <div class="d-deco"></div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
                             <div class="d-sch-table">
                                 <h2 class="wow fadeIn text-center">Our Mission</h2>
                                 <div class="de-separator"></div>
-                                <p>Our mission is to empower men to feel confident, stylish, and authentic in their appearance. Through our commitment to excellence, personalized service, inviting atmosphere, and a harmonious blend of tradition and innovation, we aspire to become the ultimate grooming destination for the modern gentleman.</p>
+                                <p>Misi kami adalah memberdayakan pria agar merasa percaya diri, bergaya, dan autentik dalam berpenampilan. Melalui komitmen kami terhadap keunggulan, layanan yang dipersonalisasi, suasana yang mengundang, dan perpaduan harmonis antara tradisi dan inovasi, kami bercita-cita untuk menjadi tujuan perawatan terbaik bagi pria modern.</p>
                                 <div class="d-deco"></div>
                             </div>
                         </div>
@@ -143,12 +143,12 @@
                                 <div class="d-deco-1"></div>
                                 <div class="d-deco-2"></div>
                                 <div class="d-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6288238330244&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/anjar.wanto/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                             <div class="spacer-20"></div>
-                            <h4>Steven Porreca</h4>
+                            <h4>ANJAR</h4>
                         </div>
 
                         <div class="col-lg-3 text-center">
@@ -159,12 +159,12 @@
                                 <div class="d-deco-1"></div>
                                 <div class="d-deco-2"></div>
                                 <div class="d-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=628978604106&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/pryoga_._/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                             <div class="spacer-20"></div>
-                            <h4>Huey Apicella</h4>
+                            <h4>YOGA</h4>
                         </div>
 
                         <div class="col-lg-3 text-center">
@@ -175,12 +175,12 @@
                                 <div class="d-deco-1"></div>
                                 <div class="d-deco-2"></div>
                                 <div class="d-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6283839595165&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/armn_1010/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                             <div class="spacer-20"></div>
-                            <h4>Harry Riecke</h4>
+                            <h4>ARMAN</h4>
                         </div>
 
                         <div class="col-lg-3 text-center">
@@ -191,12 +191,12 @@
                                 <div class="d-deco-1"></div>
                                 <div class="d-deco-2"></div>
                                 <div class="d-social">
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="https://api.whatsapp.com/send/?phone=6285601151953&text&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp fa-lg"></i></a>
+                                <a href="https://www.instagram.com/ricodlpiero/" target="_blank"><i class="fa fa-instagram fa-lg"></i></a>
                                 </div>
                             </div>
                             <div class="spacer-20"></div>
-                            <h4>Merilyn Axe</h4>
+                            <h4>RICO</h4>
                         </div>
                     </div>
                 </div>
