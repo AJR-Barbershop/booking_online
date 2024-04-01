@@ -29,7 +29,7 @@
                         ?>
                         <tr>
                             <td class="text-center"><?= $no ?></td>
-                            <td class="text-center"><?= $data['kode_booking'] ?></td>
+                            <td class="text-center"><?= $data['id'] ?></td>
                             <td class=""><?= $data['customer'] ?></td>
                             <td class="text-center"><?= $data['wa'] ?></td>
                             <td class="text-center"><?= $data['nama_paket'] ?></td>
@@ -45,7 +45,7 @@
                                     } 
                                 ?>
                             <td class="text-center">
-                                <a type="button" class="btn btn-sm btn-secondary js-tooltip-enabled" href='form_edit.php?kode_booking=<?php echo $data['kode_booking']; ?> '>
+                                <a type="button" class="btn btn-sm btn-secondary js-tooltip-enabled" href='form_edit.php?id=<?php echo $data['id']; ?> '>
                                     <i class="fa fa-user"></i>
                                 </a>
                             </td>

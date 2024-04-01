@@ -1,9 +1,9 @@
 <?php include '../layout/header.php' ?>
 
 <?php
-    $kode_booking        = $_GET['kode_booking'];
+    $id        = $_GET['id'];
  
-    $booking     = mysqli_query($koneksi, "select * from booking where kode_booking='$kode_booking'");
+    $booking     = mysqli_query($koneksi, "select * from booking where id='$id'");
     $row        = mysqli_fetch_array($booking);
 ?>
 
@@ -24,7 +24,7 @@
                         <div class="form-group row">
                             <label class="col-lg-3 col-form-label">Kode Booking</label>
                             <div class="col-lg-8">
-                                <input type="text" class="form-control" name="kode_booking" value="<?= $row['kode_booking'] ?>" readonly>
+                                <input type="text" class="form-control" name="id" value="<?= $row['id'] ?>" readonly>
                             </div>
                         </div>
                         <div class="form-group row">
