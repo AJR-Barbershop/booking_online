@@ -12,6 +12,6 @@ $status       = $_POST['status'];
 $query="INSERT INTO booking SET  kode_booking='$kode_booking',customer='$customer',nama_outlet='$nama_outlet',tanggal='$tanggal',wa='$wa',keterangan='$keterangan',status='ANTRIAN'";
 mysqli_query($koneksi, $query);
 
-echo "<script>alert('Data Anda telah masuk antrian. Terimkasih sudah menjadi pelanggan setia AJR haircuts');window.location='book.php'</script>";
+echo "<script>alert('Data Anda telah masuk antrian. Terima kasih sudah menjadi pelanggan setia AJR haircuts');window.location='book.php'</script>";
 
 ?>
